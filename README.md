@@ -1,1 +1,5 @@
-I am an actuarial officer and data analytics expert with 8+ years’ experience in various actuarial and data analytics roles. Adept in Data analytics, Liability valuation, technical risk-based pricing, financial modelling, Risk Based Capital (RBC) Management, Asset Liability Matching (ALM), Reinsurance Optimization, IFRS 9 (Financial Instruments), IFRS 16 (Leases) and IFRS 17 (Insurance contracts). Skilled in R-programming, SQL, Python with a keen interest in process automation and Machine Learning Algorithms.
+I am a Data Science Evangelist, Machine Learning Enthusiast, Budding Actuary with 9 years' experience in Data analytics.  
+
+I am skilled in Ms Excel, VBA, Python, R and SQL with a keen interest in applying machine learning and data science techniques in the actuarial discipline.  
+
+I am conversant with deploying machine learning models in AWS and Microsoft Azure with a focus on process automation
