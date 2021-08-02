@@ -1,5 +1,1 @@
-I am an Actuarial Analyst, Data Science Evangelist and Machine Learning Enthusiast with 9 years' experience in Data analytics.
-
-I am skilled in Python, R, SQL, Ms Excel and VBA with a keen interest in applying machine learning and data science techniques in the actuarial discipline.
-
-I am conversant with deploying machine learning algorithms in AWS and Microsoft Azure with a focus on process automation.
+Actuarial Specialist focused on full-stack data science applications with eight years of experience in data analytics, product pricing, reserving, process automation, and reporting. Contributed to potential savings of $40K on IFRS16 and IFRS9 model implementation. Improved pricing efficiency by 60% by redesigning key pricing models and workflows and introducing standard pricing templates. Reduced data management time by 75% by automating reserving models using Python and redesigning product pricing models to incorporate machine learning algorithms to increase customer satisfaction.
