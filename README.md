@@ -1,1 +1,1 @@
-I am a full-stack data scientist seeking to bring holistic transformation within the actuarial function and navigate the rapidly changing actuarial landscape incorporating Machine Learning techniques with a keen interest in process automation.
+I am a full-stack data scientist seeking to bring holistic transformation within the actuarial function and navigate the rapidly changing actuarial landscape and create new businesses strategies, solve customer challenges and use predictive modelling to design dynamic products of the future.
