@@ -1,1 +1,1 @@
-I am a full-stack data science enthusiast seeking to bring holistic transformation within the actuarial function and navigate the rapidly changing actuarial landscape with a bias in Financial services. My goal is to create new businesses strategies, solve customer challenges and use predictive modelling to design dynamic products of the future.
+I am an actuarial specialist and a full-stack data science enthusiast who seeks to create new business strategies, solve customer challenges, and use predictive modelling to design dynamic products of the future in Fintech.
