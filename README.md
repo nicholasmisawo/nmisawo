@@ -1,1 +1,1 @@
-I am an actuarial specialist and a full-stack data science enthusiast who seeks to create new business strategies, solve customer challenges, and use predictive modelling to design dynamic products of the future in Fintech.
+I am an actuarial specialist and a full-stack data scientist who seeks to create new business strategies, solve customer challenges, and use predictive modelling to design dynamic products of the future in Fintech.
